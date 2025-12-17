@@ -33,5 +33,11 @@ The analysis revealed a critical finding: mid-grade borrowers (Grades B, C, and 
 ● Engine: Power Query & DAX 
 ● Domain: Credit Risk Analysis & Financial Business Intelligence
 
-📂 **Repository Contents**
-Screenshots/ — A visual gallery of the dashboard pages (Executive Summary, Risk Analysis, Trends).
+📂 **Dashboard Navigation**
+Click on a section below to view the specific dashboard visualizations and insights:
+◽ [*Dashboard Image*](01_Executive_Dashboard.md)
+◽ [*Actionable Insights & Recommendations*](02_Actionable_Insights&Recommendations.md)
+
+**Connect with me:**
+🔵 [Linkedin](www.linkedin.com/in/samuel-ojetunde)
+⭐ [Email](samuelojetunde898@gmail.com)
