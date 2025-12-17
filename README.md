@@ -1,6 +1,6 @@
 # **loan-default-analysis-pbi**
 
-📋 ## **Project Overview**
+## 📋 **Project Overview**
 
 This project investigates rising loan default rates for ABZ Limited, a micro-lending institution. I transformed raw lending data into a strategic tool to identify high-risk segments and provide data-backed recommendations to improve the quality of the company’s loan portfolio.
 
