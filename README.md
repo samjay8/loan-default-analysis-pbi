@@ -35,7 +35,9 @@ The analysis revealed a critical finding: mid-grade borrowers (Grades B, C, and 
 
 📂 **Dashboard Navigation**
 Click on a section below to view the specific dashboard visualizations and insights:
+
 ◽ [*Dashboard Image*](01_Executive_Dashboard.md)
+
 ◽ [*Actionable Insights & Recommendations*](02_Actionable_Insights&Recommendations.md)
 
 **Connect with me:**
